@@ -11,6 +11,7 @@ This portfolio project does not focus on star schema redesign or data engineerin
 The dataset used in this project was intentionally AI-generated, consisting of:
 -	one fact table
 -	one Date dimension table
+  
 This decision was intentional because the primary goal was to demonstrate a modern VS Code + Power BI MCP workflow, rather than solving complex data modeling challenges.
 
 ### The project focuses on:
