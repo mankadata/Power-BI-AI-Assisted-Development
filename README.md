@@ -64,5 +64,5 @@ Instead of generating isolated code snippets, the AI worked with full project co
 -	report metadata
 -	folder hierarchy
 -	design conventions
--	
+  
 This created a more symbiotic development workflow where AI acted as a BI engineering copilot, not just a code generator.
